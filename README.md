@@ -35,8 +35,8 @@ I love creating engaging and user-friendly web applications with a focus on clea
 
 ## Get in Touch
 
-- Website: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- Email: youremail@example.com
+- Website: [https://monishsoni.me/](https://monishsoni.me)
+- LinkedIn: [https://www.linkedin.com/in/monishsoni27/](https://linkedin.com/in/monishsoni27)
+- Email: monishsoni27@gmail.com
 
 Feel free to reach out if you have any questions or would like to collaborate on an exciting project. Let's create amazing web experiences together!
