@@ -48,25 +48,20 @@ MP3 and MP4 formats.
 across different devices.
 
 
-- [MOVIEHUB](https://moviehub27.netlify.app/)
+- [Carastore](https://carastore.netlify.app/)
   
-• Developed a web application called MovieHub using ReactJS and the TMDB
-API.
+• Developed the frontend for Carastore, an ecommerce website, using HTML,
+CSS, and JavaScript.
 
-• Ensured optimal user experience across various devices through the
+• Created a visually appealing product page that effectively showcases
+Carastore’s wide range of offerings, including product images, descriptions,
+prices, and ratingsEnsured optimal user experience across various devices through the
 implementation ofresponsive design principles.
 
-• Integrated the TMDB API to retrieve data, including posters, trailers,ratings,
-and reviews.
+• Designed a user-friendly single product page that provides comprehensive
+information about a specific item, such as specifications,reviews, and related
+products.
 
-• Implemented robust search functionality, enabling users to easily find movies
-and TV series
-
-## Work Experience
-
-- Company Name (Year - Present)
-  - Job Title
-  - Description of responsibilities and achievements.
 
 ## Education
 
