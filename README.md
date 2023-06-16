@@ -19,7 +19,9 @@ I love creating engaging and user-friendly web applications with a focus on clea
 
 - [Project 1](link-to-project-1): Brief description of the project.
 - [Project 2](link-to-project-2): Brief description of the project.
-- [MOVIEHUB](https://moviehub27.netlify.app/): Developed a web application called MovieHub using ReactJS and the TMDB
+- [MOVIEHUB](https://moviehub27.netlify.app/)
+- 
+  • Developed a web application called MovieHub using ReactJS and the TMDB
 API.
 
 • Ensured optimal user experience across various devices through the
