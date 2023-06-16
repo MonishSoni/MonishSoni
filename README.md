@@ -17,11 +17,40 @@ I love creating engaging and user-friendly web applications with a focus on clea
 
 ## Projects
 
-- [Project 1](link-to-project-1): Brief description of the project.
-- [Project 2](link-to-project-2): Brief description of the project.
+
 - [MOVIEHUB](https://moviehub27.netlify.app/)
   
-  • Developed a web application called MovieHub using ReactJS and the TMDB
+• Developed a web application called MovieHub using ReactJS and the TMDB
+API.
+
+• Ensured optimal user experience across various devices through the
+implementation ofresponsive design principles.
+
+• Integrated the TMDB API to retrieve data, including posters, trailers,ratings,
+and reviews.
+
+• Implemented robust search functionality, enabling users to easily find movies
+and TV series.
+
+
+- [Mytube](https://mytube27.netlify.app/)
+  
+• Designed and implemented a user-friendly interface for seamless video
+streaming without advertisements.
+
+• Leveraged the YouTube API to fetch video data and dynamically display it within
+the MyTube interface.
+
+• • Implemented a convenient feature enabling users to download videos in both
+MP3 and MP4 formats.
+
+• Ensured a responsive and visually appealing design for optimal user experience
+across different devices.
+
+
+- [MOVIEHUB](https://moviehub27.netlify.app/)
+  
+• Developed a web application called MovieHub using ReactJS and the TMDB
 API.
 
 • Ensured optimal user experience across various devices through the
