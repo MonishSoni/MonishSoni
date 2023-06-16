@@ -66,7 +66,7 @@ products.
 ## Education
 
 - B.E, Electronics & Telecommunication Engineering (2017 - 2021)
-  - University of Mumbai
+   University of Mumbai
 
 
 ## Get in Touch
