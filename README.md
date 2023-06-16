@@ -1,19 +1,19 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Monish Soni 👋
 
 ## About Me
-I'm a passionate frontend developer with [X] years of experience. I love creating engaging and user-friendly web applications with a focus on clean, efficient code and modern design principles.
+I love creating engaging and user-friendly web applications with a focus on clean, efficient code and modern design principles. Currently looking for entry level position as a Frontend Developer.
 
 ## Skills
 
 - HTML5
-- CSS3 (including preprocessors like Sass or Less)
+- CSS3 (including preprocessors like Sass)
 - JavaScript (ES6+)
 - Responsive Web Design
-- CSS frameworks (e.g., Bootstrap, Tailwind CSS)
-- Frontend frameworks (e.g., React, Vue.js)
-- Version control (e.g., Git, GitHub)
+- CSS frameworks (Bootstrap, Tailwind CSS)
+- Reactjs, Redux, React Router
+- Git
 - Web performance optimization
-- Cross-browser compatibility
+  
 
 ## Projects
 
@@ -27,15 +27,11 @@ I'm a passionate frontend developer with [X] years of experience. I love creatin
   - Job Title
   - Description of responsibilities and achievements.
 
-- Company Name (Year - Year)
-  - Job Title
-  - Description of responsibilities and achievements.
-
 ## Education
 
-- Degree, Major (Year)
-  - University Name
-  - Description of coursework and achievements.
+- B.E, Electronics & Telecommunication Engineering (2017 - 2021)
+  - University of Mumbai
+
 
 ## Get in Touch
 
