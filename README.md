@@ -1,32 +1,120 @@
-<h1 align="center">Hi 👋, I'm Monish Soni</h1>
-<h3 align="center">A passionate frontend developer from India. </h3>
-<h3 align="center">  I Create Beautiful Responsive Websites, And I Love What I Do.</h3>
+<div align="center">
 
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Monish%20Soni&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Craftsman%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
-- 🔭 I’m currently working on [Codersorigin](https://www.codersorigin.in/)
+</div>
 
-- 🌱 I’m currently learning **NextJs**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://monishsoni27.netlify.app/](https://monishsoni27.netlify.app/)
+<div align="center">
 
-- 💬 Ask me about **ReactJs, JavaScript, CSS**
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+beautiful+UIs+with+React+%26+Next.js;Turning+designs+into+pixel-perfect+reality;Open+to+remote+frontend+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 📫 How to reach me **monishsoni27@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/monishsoni27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monishsoni27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/monishsoni27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monishsoni27" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21395369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21395369" height="30" width="40" /></a>
-<a href="https://instagram.com/monishsoni27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monishsoni27" height="30" width="40" /></a>
-</p>
+---
 
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+```javascript
+const monish = {
+  location: "India 🇮🇳",
+  role: "Frontend Developer & Founder",
+  education: "B.E. Electronics & Telecommunication (2021)",
+  currentlyBuilding: ["Talkyn — AI Dating Coach App", "Antigravity Expo"],
+  openTo: "Remote Junior Frontend Developer roles",
+  email: "monishsoni27@gmail.com",
+  portfolio: "https://monishsoni27.netlify.app/",
+  passion: "Crafting responsive, beautiful web experiences",
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monishsoni&show_icons=true&locale=en&layout=compact" alt="monishsoni" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monishsoni&show_icons=true&locale=en" alt="monishsoni" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monishsoni&" alt="monishsoni" /></p>
+<div align="center">
+
+**Core**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Backend & Database**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🗺️ **StashMap** | Location-based saving & discovery app | React, Supabase, Maps API |
+| 💬 **Talkyn** | AI dating coach for Indian users (EN/Hindi/Hinglish) | Next.js, OpenAI, Supabase |
+| ⚡ **Habitrak** | Habit tracking with streaks & analytics | React, Tailwind |
+| ⚖️ **Legacy Legal** | Premium legal SaaS marketing site | Next.js, Framer Motion, TS |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=monishsoni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishsoni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monishsoni&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://monishsoni27.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monishsoni27)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/monishsoni27)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/monishsoni27)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21395369)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monishsoni27@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"I don't just write code — I craft experiences."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+
+</div>
