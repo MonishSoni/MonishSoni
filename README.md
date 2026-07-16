@@ -1,165 +1,159 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:0d0d0d&height=200&section=header&text=Monish%20Soni&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend-Focused%20Fullstack%20Developer%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18&descColor=888888&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Monish%20Soni&fontSize=62&fontColor=ffffff&fontAlignY=35&desc=Frontend-Focused%20Fullstack%20Developer%20%C2%B7%20AI%20Builder&descAlignY=55&descSize=18&descColor=b8b8d1&animation=fadeIn" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+beautiful+UIs+with+React+%26+Next.js;Shipping+fullstack+products+end+to+end;Building+AI+agents+%26+RAG+pipelines;Open+to+remote+frontend%2Ffullstack+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://monishsoni27.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monishsoni27)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monishsoni27@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/monishsoni27)
 
 </div>
 
 <br/>
 
-<div align="center">
+## 🚀 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Building+beautiful+UIs+with+React+%26+Next.js;Shipping+fullstack+products+end+to+end;Building+AI+agents+%26+RAG+pipelines;Open+to+remote+frontend%2Ffullstack+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
+I'm a **frontend-focused fullstack developer** from Mumbai, India, crafting pixel-perfect interfaces backed by solid, scalable systems. Lately I've been deep in **AI product development** — building agents, RAG pipelines, and LLM-powered apps.
 
 ```javascript
 const monish = {
-  location: "Mumbai, Maharashtra, India 🇮🇳",
   role: "Frontend-Focused Fullstack Developer",
-  education: "B.E. Electronics & Telecommunication (2021)",
-  currentlyBuilding: ["Talkyn — AI Dating Coach App", "Antigravity Expo"],
-  openTo: "Remote Frontend / Fullstack Developer roles",
-  email: "monishsoni27@gmail.com",
-  portfolio: "https://monishsoni27.netlify.app/",
-  passion: "Crafting pixel-perfect UIs backed by solid systems",
+  education: "B.E. Electronics & Telecommunication '21",
+  currentlyBuilding: ["Talkyn — AI Dating Coach", "Antigravity Expo"],
+  openTo: "Remote Frontend / Fullstack roles",
+  basedIn: "Mumbai, India 🇮🇳",
 };
 ```
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3b82f6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 **Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0d0d0d?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-0d0d0d?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 
 **Database**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=for-the-badge&logo=prisma&logoColor=2D3748)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=DC382D)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=47A248)
+</td>
+<td valign="top" width="50%">
 
-**Authentication**
+**AI / LLM**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 
-![JWT](https://img.shields.io/badge/JWT-0d0d0d?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-0d0d0d?style=for-the-badge&logo=auth0&logoColor=EB5424)
-![Auth.js](https://img.shields.io/badge/Auth.js-0d0d0d?style=for-the-badge&logo=authelia&logoColor=white)
+**AI Agents & RAG**
+<br/>
+<img src="https://img.shields.io/badge/MCP-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_DBs-4ade80?style=flat-square&logo=pinecone&logoColor=white" />
 
-**AI**
+**DevOps & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=D4A574)
-![Gemini](https://img.shields.io/badge/Gemini-0d0d0d?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0d0d0d?style=for-the-badge&logo=openai&logoColor=4ade80)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-0d0d0d?style=for-the-badge&logo=function&logoColor=4ade80)
+</td>
+</tr>
+</table>
 
-**RAG**
+<br/>
 
-![Embeddings](https://img.shields.io/badge/Embeddings-0d0d0d?style=for-the-badge&logo=numpy&logoColor=4ade80)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-0d0d0d?style=for-the-badge&logo=pinecone&logoColor=4ade80)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-
-**AI Agents**
-
-![MCP](https://img.shields.io/badge/MCP-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=D4A574)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d0d0d?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-![AI Memory](https://img.shields.io/badge/AI_Memory-0d0d0d?style=for-the-badge&logo=brain&logoColor=4ade80)
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)
-
-**System Design**
-
-![Caching](https://img.shields.io/badge/Caching-0d0d0d?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Scaling](https://img.shields.io/badge/Scaling-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![API Design](https://img.shields.io/badge/API_Design-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-**Testing**
-
-![Jest](https://img.shields.io/badge/Jest-0d0d0d?style=for-the-badge&logo=jest&logoColor=C21325)
-![Playwright](https://img.shields.io/badge/Playwright-0d0d0d?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-
-**CS Fundamentals**
-
-![DSA](https://img.shields.io/badge/DSA-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=FFA116)
-![OOP](https://img.shields.io/badge/OOP-0d0d0d?style=for-the-badge&logo=codeigniter&logoColor=4ade80)
-![DBMS](https://img.shields.io/badge/DBMS-0d0d0d?style=for-the-badge&logo=oracle&logoColor=F80000)
-![OS](https://img.shields.io/badge/Operating_Systems-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Networks](https://img.shields.io/badge/Networks-0d0d0d?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## 💼 Featured Projects
 
 <div align="center">
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🗺️ **StashMap** | Location-based saving & discovery app | React, Supabase, Maps API |
-| 💬 **Talkyn** | AI dating coach for Indian users (EN/Hindi/Hinglish) | Next.js, OpenAI, Supabase |
-| ⚡ **Habitrak** | Habit tracking with streaks & analytics | React, Tailwind |
-| ⚖️ **Legacy Legal** | Premium legal SaaS marketing site | Next.js, Framer Motion, TS |
+<table>
+<tr>
+<td width="50%">
+
+### 💬 Talkyn
+AI dating coach for Indian users, supporting English, Hindi & Hinglish.
+<br/>
+`Next.js` `OpenAI` `Supabase`
+
+</td>
+<td width="50%">
+
+### 🗺️ StashMap
+Location-based saving & discovery app for places you love.
+<br/>
+`React` `Supabase` `Maps API`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Habitrak
+Habit tracking app with streaks, analytics & reminders.
+<br/>
+`React` `Tailwind`
+
+</td>
+<td width="50%">
+
+### ⚖️ Legacy Legal
+Premium legal SaaS marketing site with smooth motion design.
+<br/>
+`Next.js` `Framer Motion` `TypeScript`
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=monishsoni&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=4ade80&icon_color=4ade80&text_color=888888" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishsoni&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=4ade80&text_color=888888" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=monishsoni&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishsoni&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monishsoni&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=888888&dates=555555" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monishsoni&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 </div>
 
----
-
-## 🌐 Connect With Me
+<br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=google-chrome&logoColor=4ade80)](https://monishsoni27.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=3b82f6)](https://linkedin.com/in/monishsoni27)
-[![Twitter](https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/monishsoni27)
-[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/monishsoni27)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-0d0d0d?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/21395369)
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:monishsoni27@gmail.com)
+*I don't just write code — I craft experiences, backed by systems that scale.*
 
-</div>
-
----
-
-<div align="center">
-
-*"I don't just write code — I craft experiences, backed by systems that scale."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:0d0d0d&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
 
 </div>
