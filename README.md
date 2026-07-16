@@ -1,53 +1,6 @@
 <div align="center">
 
-<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#08080c"/>
-      <stop offset="50%" stop-color="#0d0d16"/>
-      <stop offset="100%" stop-color="#08080c"/>
-    </linearGradient>
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c084fc"/>
-      <stop offset="45%" stop-color="#818cf8"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c084fc" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
-    </pattern>
-    <filter id="blurBig" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="60"/>
-    </filter>
-  </defs>
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#grid)"/>
-  <circle cx="230" cy="90" r="220" fill="url(#glow1)" filter="url(#blurBig)"/>
-  <circle cx="980" cy="250" r="220" fill="url(#glow2)" filter="url(#blurBig)"/>
-  <rect x="0" y="0" width="1200" height="1" fill="#ffffff" fill-opacity="0.06"/>
-  <rect x="0" y="319" width="1200" height="1" fill="#ffffff" fill-opacity="0.06"/>
-  <g transform="translate(600,78)">
-    <rect x="-116" y="-16" width="232" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
-    <circle cx="-92" cy="0" r="4" fill="#4ade80"/>
-    <text x="-78" y="5" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" letter-spacing="1.5" fill="#c9c9d4">OPEN TO REMOTE ROLES</text>
-  </g>
-  <text x="600" y="172" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="2" fill="url(#titleGrad)">MONISH SONI</text>
-  <rect x="450" y="200" width="300" height="2" fill="url(#lineGrad)"/>
-  <text x="600" y="240" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" letter-spacing="0.5" fill="#a1a1aa">Frontend-Focused Fullstack Developer</text>
-  <text x="600" y="268" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="14" letter-spacing="3" fill="#71717a">REACT · NEXT.JS · TYPESCRIPT · AI SYSTEMS</text>
-</svg>
+<img width="100%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIzMjAiIHZpZXdCb3g9IjAgMCAxMjAwIDMyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDgwODBjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjMGQwZDE2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzA4MDgwYyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InRpdGxlR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzA4NGZjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdG9wLWNvbG9yPSIjODE4Y2Y4Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzM4YmRmOCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNjMDg0ZmMiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzgxOGNmOCIgc3RvcC1vcGFjaXR5PSIwLjkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMzhiZGY4IiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93MSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNTAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzdjM2FlZCIgc3RvcC1vcGFjaXR5PSIwLjM1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzdjM2FlZCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgoKICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdzIiIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjUwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwZWE1ZTkiIHN0b3Atb3BhY2l0eT0iMC4yNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwZWE1ZTkiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KCiAgICA8cGF0dGVybiBpZD0iZ3JpZCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBwYXR0ZXJuVW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHBhdGggZD0iTSA0MCAwIEwgMCAwIDAgNDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMDM1IiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDwvcGF0dGVybj4KCiAgICA8ZmlsdGVyIGlkPSJibHVyQmlnIiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNjAiLz4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KCiAgPCEtLSBiYXNlIC0tPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjMyMCIgZmlsbD0idXJsKCNiZykiLz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIzMjAiIGZpbGw9InVybCgjZ3JpZCkiLz4KCiAgPCEtLSBhbWJpZW50IGdsb3dzIC0tPgogIDxjaXJjbGUgY3g9IjIzMCIgY3k9IjkwIiByPSIyMjAiIGZpbGw9InVybCgjZ2xvdzEpIiBmaWx0ZXI9InVybCgjYmx1ckJpZykiLz4KICA8Y2lyY2xlIGN4PSI5ODAiIGN5PSIyNTAiIHI9IjIyMCIgZmlsbD0idXJsKCNnbG93MikiIGZpbHRlcj0idXJsKCNibHVyQmlnKSIvPgoKICA8IS0tIHRvcCBoYWlybGluZSAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIxIiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuMDYiLz4KICA8cmVjdCB4PSIwIiB5PSIzMTkiIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjEiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC4wNiIvPgoKICA8IS0tIGV5ZWJyb3cgdGFnIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYwMCw3OCkiPgogICAgPHJlY3QgeD0iLTExNiIgeT0iLTE2IiB3aWR0aD0iMjMyIiBoZWlnaHQ9IjMyIiByeD0iMTYiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC4wNiIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utb3BhY2l0eT0iMC4xMiIvPgogICAgPGNpcmNsZSBjeD0iLTkyIiBjeT0iMCIgcj0iNCIgZmlsbD0iIzRhZGU4MCIvPgogICAgPHRleHQgeD0iLTc4IiB5PSI1IiBmb250LWZhbWlseT0iJ0pldEJyYWlucyBNb25vJywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBsZXR0ZXItc3BhY2luZz0iMS41IiBmaWxsPSIjYzljOWQ0Ij5PUEVOIFRPIFJFTU9URSBST0xFUzwvdGV4dD4KICA8L2c+CgogIDwhLS0gbmFtZSAtLT4KICA8dGV4dCB4PSI2MDAiIHk9IjE3MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidTZWdvZSBVSScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI4MDAiIGxldHRlci1zcGFjaW5nPSIyIiBmaWxsPSJ1cmwoI3RpdGxlR3JhZCkiPk1PTklTSCBTT05JPC90ZXh0PgoKICA8IS0tIGRpdmlkZXIgLS0+CiAgPHJlY3QgeD0iNDUwIiB5PSIyMDAiIHdpZHRoPSIzMDAiIGhlaWdodD0iMiIgZmlsbD0idXJsKCNsaW5lR3JhZCkiLz4KCiAgPCEtLSBzdWJ0aXRsZSAtLT4KICA8dGV4dCB4PSI2MDAiIHk9IjI0MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidTZWdvZSBVSScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTkiIGxldHRlci1zcGFjaW5nPSIwLjUiIGZpbGw9IiNhMWExYWEiPgogICAgRnJvbnRlbmQtRm9jdXNlZCBGdWxsc3RhY2sgRGV2ZWxvcGVyCiAgPC90ZXh0PgogIDx0ZXh0IHg9IjYwMCIgeT0iMjY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iJ0pldEJyYWlucyBNb25vJywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjE0IiBsZXR0ZXItc3BhY2luZz0iMyIgZmlsbD0iIzcxNzE3YSI+CiAgICBSRUFDVCDCtyBORVhULkpTIMK3IFRZUEVTQ1JJUFQgwrcgQUkgU1lTVEVNUwogIDwvdGV4dD4KPC9zdmc+Cg==" alt="Monish Soni" />
 
 <br/>
 
@@ -201,27 +154,6 @@ Premium legal SaaS marketing site with smooth motion design.
 
 *I don't just write code — I craft experiences, backed by systems that scale.*
 
-<svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgF" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#08080c"/>
-      <stop offset="50%" stop-color="#0d0d16"/>
-      <stop offset="100%" stop-color="#08080c"/>
-    </linearGradient>
-    <linearGradient id="lineGradF" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c084fc" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="gridF" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="90" fill="url(#bgF)"/>
-  <rect width="1200" height="90" fill="url(#gridF)"/>
-  <rect x="0" y="0" width="1200" height="1" fill="#ffffff" fill-opacity="0.06"/>
-  <rect x="450" y="24" width="300" height="1.5" fill="url(#lineGradF)"/>
-  <text x="600" y="58" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="13" letter-spacing="2" fill="#71717a">CRAFTED WITH REACT · TYPESCRIPT · A LOT OF COFFEE</text>
-</svg>
+<img width="100%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI5MCIgdmlld0JveD0iMCAwIDEyMDAgOTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnRiIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwODA4MGMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMwZDBkMTYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDgwODBjIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lR3JhZEYiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2MwODRmYyIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjODE4Y2Y4IiBzdG9wLW9wYWNpdHk9IjAuOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzOGJkZjgiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXR0ZXJuIGlkPSJncmlkRiIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBwYXR0ZXJuVW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHBhdGggZD0iTSA0MCAwIEwgMCAwIDAgNDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMDMiIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI5MCIgZmlsbD0idXJsKCNiZ0YpIi8+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAiIGZpbGw9InVybCgjZ3JpZEYpIi8+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iMSIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIwLjA2Ii8+CiAgPHJlY3QgeD0iNDUwIiB5PSIyNCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIxLjUiIGZpbGw9InVybCgjbGluZUdyYWRGKSIvPgogIDx0ZXh0IHg9IjYwMCIgeT0iNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBsZXR0ZXItc3BhY2luZz0iMiIgZmlsbD0iIzcxNzE3YSI+CiAgICBDUkFGVEVEIFdJVEggUkVBQ1QgwrcgVFlQRVNDUklQVCDCtyBBIExPVCBPRiBDT0ZGRUUKICA8L3RleHQ+Cjwvc3ZnPgo=" alt="footer" />
 
 </div>
