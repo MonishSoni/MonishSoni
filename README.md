@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Monish%20Soni&fontSize=62&fontColor=ffffff&fontAlignY=35&desc=Frontend-Focused%20Fullstack%20Developer%20%C2%B7%20AI%20Builder&descAlignY=55&descSize=18&descColor=b8b8d1&animation=fadeIn" />
+<img width="100%" src="./assets/header.svg" alt="Monish Soni" />
 
 <br/>
 
@@ -154,6 +154,6 @@ Premium legal SaaS marketing site with smooth motion design.
 
 *I don't just write code — I craft experiences, backed by systems that scale.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+<img width="100%" src="./assets/footer.svg" alt="footer" />
 
 </div>
