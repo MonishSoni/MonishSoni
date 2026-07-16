@@ -1,6 +1,53 @@
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Monish Soni" />
+<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08080c"/>
+      <stop offset="50%" stop-color="#0d0d16"/>
+      <stop offset="100%" stop-color="#08080c"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="45%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <filter id="blurBig" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <circle cx="230" cy="90" r="220" fill="url(#glow1)" filter="url(#blurBig)"/>
+  <circle cx="980" cy="250" r="220" fill="url(#glow2)" filter="url(#blurBig)"/>
+  <rect x="0" y="0" width="1200" height="1" fill="#ffffff" fill-opacity="0.06"/>
+  <rect x="0" y="319" width="1200" height="1" fill="#ffffff" fill-opacity="0.06"/>
+  <g transform="translate(600,78)">
+    <rect x="-116" y="-16" width="232" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/>
+    <circle cx="-92" cy="0" r="4" fill="#4ade80"/>
+    <text x="-78" y="5" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" letter-spacing="1.5" fill="#c9c9d4">OPEN TO REMOTE ROLES</text>
+  </g>
+  <text x="600" y="172" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="2" fill="url(#titleGrad)">MONISH SONI</text>
+  <rect x="450" y="200" width="300" height="2" fill="url(#lineGrad)"/>
+  <text x="600" y="240" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" letter-spacing="0.5" fill="#a1a1aa">Frontend-Focused Fullstack Developer</text>
+  <text x="600" y="268" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="14" letter-spacing="3" fill="#71717a">REACT · NEXT.JS · TYPESCRIPT · AI SYSTEMS</text>
+</svg>
 
 <br/>
 
@@ -154,6 +201,27 @@ Premium legal SaaS marketing site with smooth motion design.
 
 *I don't just write code — I craft experiences, backed by systems that scale.*
 
-<img width="100%" src="./assets/footer.svg" alt="footer" />
+<svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgF" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08080c"/>
+      <stop offset="50%" stop-color="#0d0d16"/>
+      <stop offset="100%" stop-color="#08080c"/>
+    </linearGradient>
+    <linearGradient id="lineGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gridF" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="90" fill="url(#bgF)"/>
+  <rect width="1200" height="90" fill="url(#gridF)"/>
+  <rect x="0" y="0" width="1200" height="1" fill="#ffffff" fill-opacity="0.06"/>
+  <rect x="450" y="24" width="300" height="1.5" fill="url(#lineGradF)"/>
+  <text x="600" y="58" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="13" letter-spacing="2" fill="#71717a">CRAFTED WITH REACT · TYPESCRIPT · A LOT OF COFFEE</text>
+</svg>
 
 </div>
